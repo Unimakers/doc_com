@@ -18,6 +18,6 @@ title: Page d'Acceuil
 
  <p align="justify">En tant qu'étudiante ingénieur en deuxième année à Unilasalle Amiens, ma passion pour les sujets scientifiques, notamment la robotique, est indéniable. Au cours de l'année scolaire 2023-2024, j'ai eu l'opportunité de participer à la Coupe France de Robotique 2024 à La Roche-sur-Yon en tant que Responsable Communication. Cette expérience m'a permis de mettre en pratique mes compétences en communication tout en contribuant activement à la promotion et à la représentation de nos équipes et de notre institution. De plus, cela a également renforcé ma passion pour la photo et la vidéo. </p><br>
 
-<h3 align="Center"><B>Prêt à explorer la suite ?</B></h4>
-<h4 style="color: darkgray; text-align: center;">Jette un coup d'œil au tableau de bord sur ta gauche</h4>
+<h3 align="Center"><B>Prêt à explorer la suite ?</B></h3>
+<h4 style="color: darkgray; text-align: center;">Jette un coup d'œil au tableau de bord sur ta gauche !</h4>
 
