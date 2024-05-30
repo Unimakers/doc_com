@@ -4,7 +4,7 @@ nav_order: 1
 title: Page d'Acceuil
 ---
 
-# Explorez ma documentation !
+<h1><B>Explorons ma documentation !</B> </h1>
 
 <h2 style="color: red;"> Ce que vous retrouverez </h2>
 
@@ -16,4 +16,8 @@ title: Page d'Acceuil
 
 ![Illustration colorée avec un fond blanc, décrivant mon profil : LELEU Clémence, étudiante de 2ème année. Mes missions sont :  Gestion Relationnel, Production de Contenu et Promotion des équipes](images/presentation_missions.png)
 
+ <p align="justify">En tant qu'étudiante ingénieur en deuxième année à Unilasalle Amiens, ma passion pour les sujets scientifiques, notamment la robotique, est indéniable. Au cours de l'année scolaire 2023-2024, j'ai eu l'opportunité de participer à la Coupe France de Robotique 2024 à La Roche-sur-Yon en tant que Responsable Communication. Cette expérience m'a permis de mettre en pratique mes compétences en communication tout en contribuant activement à la promotion et à la représentation de nos équipes et de notre institution. De plus, cela a également renforcé ma passion pour la photo et la vidéo. </p>
+
+<h4 align="Center"><B>Prêt à explorer la suite ?</B></h4>
+<h5 align="Center"> Jetes un coup d'oeil au tableau de bord sur ta gauche<h5>
 
