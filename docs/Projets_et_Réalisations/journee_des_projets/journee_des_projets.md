@@ -15,4 +15,8 @@ nav_order: 2
     <img src="images/IMG_6634.jpg" alt="Photo d'un groupe de personnes">
 </div>
 
-<h2 style="color: red;"><strong><em>Ma mission : photographier et mettre en valeur les équipes de la coupe</em></strong></h2>
+<h2 style="color: red;"><strong>Ma mission : <em>photographier et mettre en valeur les équipes de la coupe</em></strong></h2>
+
+
+
+<h2 style="color: red;"><strong>Résultat</strong></h2>
