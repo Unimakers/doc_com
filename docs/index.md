@@ -11,12 +11,12 @@ title: Page d'Acceuil
   <p align="justify">Ce site vise à fournir une documentation technique complète sur mon parcours en tant que responsable communication pour les équipes de la Coupe de France Robotique. Il partage les réalisations et les projets que j'ai menés, offrant ainsi des exemples concrets de bonnes pratiques en communication dans le domaine de la robotique. En documentant les étapes clés du processus, il aspire à être une ressource précieuse en ce qui concerne l'échange et la collaboration au sein de la communauté. En partageant mes expériences, je souhaite inspirer et motiver d'autres passionnés de robotique à développer leurs compétences en communication.</p>
 
 <div style="text-align: center;">
-    <img src="images/logotype_rouge.png" alt="Illustration avec appareil photo, bulle de discussions et caméra" style="max-width: 50%; height: auto;">
+    <img src="./images/logotype_rouge.png" alt="Illustration avec appareil photo, bulle de discussions et caméra" style="max-width: 50%; height: auto;">
 </div>
 
 <h2 style="color: red;"> A propos de moi : <em>Qui je suis ?</em> </h2>
 
-![Illustration colorée avec un fond blanc, décrivant mon profil : LELEU Clémence, étudiante de 2ème année. Mes missions sont :  Gestion Relationnel, Production de Contenu et Promotion des équipes](images/presentation_missions.png)
+![Illustration colorée avec un fond blanc, décrivant mon profil : LELEU Clémence, étudiante de 2ème année. Mes missions sont :  Gestion Relationnel, Production de Contenu et Promotion des équipes](./images/presentation_missions.png)
 
  <p align="justify">En tant qu'étudiante ingénieur en deuxième année à Unilasalle Amiens, ma passion pour les sujets scientifiques, notamment la robotique, est indéniable. Au cours de l'année scolaire 2023-2024, j'ai eu l'opportunité de participer à la Coupe France de Robotique 2024 à La Roche-sur-Yon en tant que Responsable Communication. Cette expérience m'a permis de mettre en pratique mes compétences en communication tout en contribuant activement à la promotion et à la représentation de nos équipes et de notre institution. De plus, cela a également renforcé ma passion pour la photo et la vidéo. </p><br>
 
