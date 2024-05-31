@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contenus Créés
+title: Créations
 parent: Projets et Réalisations
 nav_order: 3
 ---
@@ -27,6 +27,8 @@ nav_order: 3
 <hr style="border: 1px solid black; width: 100%; margin: 0 auto;">
 
 <h2 id="section2" style="color: red;"><strong>Journée des Projets</strong></h2>
+
+<h3 style="margin-left: 30px;">Présentation Journée des projets : Cadrage et Script </h3>
 
 <h3 style="margin-left: 30px;">Mise en place d'une base de données : Photos et vidéos </h3>
 
