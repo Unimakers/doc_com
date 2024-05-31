@@ -6,9 +6,11 @@ parent: Coupe de France Robotique 2024
 nav_order: 2
 ---
 
-<nav style="background-color: darkgray;">
-    <h2>Sommaire - Ce qu'on retrouve dans cette page </h2>
-    <ul>
+<h2>Listes des évènements :</h2>
+<h2 style="color:darkgray;"><em>Les différents projets sont classés en fonction des évènements</em></h2>
+
+<nav style="background-color: gray; color : dark;">
+        <ul>
         <li><a href="#section1">Coupe France de Robotique 2024</a></li>
         <li><a href="#section2">Journée des Projets</a></li>
     </ul>
