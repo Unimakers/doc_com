@@ -4,7 +4,7 @@ nav_order: 1
 title: Page d'Acceuil
 ---
 
-<h1><B>Explorons ma documentation !</B> </h1>
+<h1><B>Explorons ma documentation !</B></h1>
 
 <h2 style="color: red;"> Ce que vous retrouverez </h2>
 
