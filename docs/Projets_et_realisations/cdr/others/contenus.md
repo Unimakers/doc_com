@@ -7,12 +7,12 @@ nav_order: 2
 ---
 
 <h2>Listes des évènements :</h2>
-<h2 style="color:darkgray;"><em>Les différents projets sont classés en fonction des évènements</em></h2>
+<h5 style="color:darkgray;"><em>Les différents projets sont classés en fonction des évènements</em></h5>
 
-<nav style="background-color: gray; color : dark;">
+<nav style="background-color: #CBC8C8;">
         <ul>
-        <li><a href="#section1">Coupe France de Robotique 2024</a></li>
-        <li><a href="#section2">Journée des Projets</a></li>
+        <li><a href="#section1" style="color: black;">Coupe France de Robotique 2024</a></li>
+        <li><a href="#section2" style="color: black;">Journée des Projets</a></li>
     </ul>
 </nav>
 
