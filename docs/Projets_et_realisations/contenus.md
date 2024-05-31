@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Contenus Créés
-grand_parent: Projets et Réalisations
-parent: Coupe de France Robotique 2024
-nav_order: 2
+parent: Projets et Réalisations
+nav_order: 3
 ---
 
 <h3 style="margin-left: 30px;">Sommaire - Liste des projets classés par événement :</h3>
