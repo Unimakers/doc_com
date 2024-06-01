@@ -19,7 +19,9 @@ nav_order: 1
 
 <p align="justify">Afin de simplifier mes tâches et d'améliorer ma productivité, j'ai opté pour l'utilisation de logiciels que je maîtrisais déjà. Vous trouverez ci-dessous la liste de ces derniers : </p>
 
-<!--Canva, Gimp, DaVinci, CapCut, Lightroom-->
+<img src="../../images/logiciels_retouches.png" alt="Logiciels utilisés dans le travail : capcut, lightroom, canva, gimp, instagram, davinci resolve" style="width: 100%; height: auto;">
+
+<br>
 
 <h2 style="color: red;"><strong>La Communication en quelques chiffres</strong></h2>
 

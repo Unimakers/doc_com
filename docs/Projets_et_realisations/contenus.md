@@ -24,6 +24,8 @@ nav_order: 3
 
 <h3 style="margin-left: 30px;">Interview Unimakers (tout court) </h3>
 
+<h3 style="margin-left: 30px;">Création d'un Magazine</h3>
+
 <hr style="border: 1px solid black; width: 100%; margin: 0 auto;">
 
 <h2 id="section2" style="color: red;"><strong>Journée des Projets</strong></h2>
