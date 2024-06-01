@@ -8,4 +8,4 @@ nav_order: 7
 
 <h1><strong>Coupe France de Robotique 2024</strong></h1>
 
-<h3 style="margin-left: 30px;">Conception d'un Magazine</h3>
+<h2 style="color: red; margin-left: 30px;"><strong>Conception d'un Magazine</strong></h2>

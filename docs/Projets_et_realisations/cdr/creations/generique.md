@@ -8,4 +8,4 @@ nav_order: 4
 
 <h1><strong>Coupe France de Robotique 2024</strong></h1>
 
-<h3 style="margin-left: 30px;">Réalisation d'un Générique</h3>
+<h2 style="color: red; margin-left: 30px;"><strong>Réalisation d'un Générique</strong></h2>

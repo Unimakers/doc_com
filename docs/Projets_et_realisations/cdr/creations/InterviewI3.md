@@ -8,4 +8,4 @@ nav_order: 6
 
 <h1><strong>Coupe France de Robotique 2024</strong></h1>
 
-<h3 style="margin-left: 30px;">Réalisation d'une Interview - Unimakers</h3>
+<h2 style="color: red; margin-left: 30px;"><strong>Réalisation d'un Générique - Unimakers</strong></h2>

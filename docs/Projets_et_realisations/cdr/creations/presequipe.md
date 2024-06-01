@@ -40,7 +40,7 @@ nav_order: 1
     </div>
 </div>
 
-<p align="justify"> La stabilité de leur robot a été démontrée lors de matchs amicaux organisés à leur retour à l'école<em><strong>L'année prochaine, l'équipe RATP sera un adversaire redoutable, alors méfiez-vous d'eux !</strong></em><p>
+<p align="justify"> La stabilité de leur robot a été démontrée lors de matchs amicaux organisés à leur retour à l'école<em><strong>. L'année prochaine, l'équipe RATP sera un adversaire redoutable, alors méfiez-vous d'eux !</strong></em><p>
 
 <h3 style="margin-left: 20px;">Unimakers - tout court</h3>
 
@@ -57,7 +57,7 @@ nav_order: 1
 </div>
 <br>
 
-<p align="justify">Cette équipe a brillé lors de la compétition, en se frayant un chemin au fil des matchs avec une détermination remarquable. Leur travail assidu et leur engagement sans faille les ont propulsés vers les sommets, leur permettant ainsi de se qualifier pour la finale en se classant à la 16ème place. Félicitations à eux pour cette performance exceptionnelle ! Maintenant, direction le podium où de nouvelles victoires les attendent !</p>
+<p align="justify">Cette équipe a brillé lors de la compétition, en se frayant un chemin au fil des matchs avec une détermination remarquable. Leur travail assidu et leur engagement sans faille les ont propulsés vers les sommets, leur permettant ainsi de se qualifier pour la finale en se classant à la 16ème place. <strong><em>Félicitations à eux pour cette performance exceptionnelle ! Maintenant, direction le podium où de nouvelles victoires les attendent !</em></strong></p>
 
 <h3 style="margin-left: 20px;">Unimakers Legends</h3>
 
