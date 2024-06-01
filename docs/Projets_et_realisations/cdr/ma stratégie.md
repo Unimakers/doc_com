@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Ma Stratégie
-grand_parent: Projets et Réalisations
-parent: Coupe de France Robotique 2024
+parent: Projets et Réalisations
 nav_order: 1
 ---
 
@@ -20,7 +19,7 @@ nav_order: 1
 <p align="justify">Pour simplifier mes tâches et améliorer ma productivité, j'ai choisi Lightroom pour l'édition de photos, Canva pour la création de designs, Instagram pour le partage de contenu, CapCut pour le montage vidéo, GIMP pour la retouche d'images et DaVinci Resolve pour le montage et l'étalonnage avancés. </p>
 
 <div style="text-align: center;">
-    <img src="../../../images/logiciels_retouches.png" alt="Logiciels utilisés dans le travail : capcut, lightroom, canva, gimp, instagram, davinci resolve" style="width: 75%; height: auto; margin: auto;">
+    <img src="../../images/logiciels_retouches.png" alt="Logiciels utilisés dans le travail : capcut, lightroom, canva, gimp, instagram, davinci resolve" style="width: 75%; height: auto; margin: auto;">
 </div>
 
 <br>

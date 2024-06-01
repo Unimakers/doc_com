@@ -2,7 +2,8 @@
 layout: default
 parent: Projets et Réalisations
 title: Journée des Projets
-nav_order: 2
+has_children : true
+nav_order: 3
 ---
 
 <h1><strong>La Journée des Projets : 29 mai 2024 !</strong><h1>
@@ -15,7 +16,7 @@ nav_order: 2
 
 <img src="../../images/photos_jprojets.png" alt="6 photos prises journée des projets" style="max-width: 100%; display: block; margin: 0 auto;">
 
-<p align ="center"><a href="https://unimakers.fr/doc_com/Projets_et_realisations/creations.html">Cliquez ici pour retrouver toutes mes créations</a></p> 
+<p align ="center"><a href="https://unimakers.fr/doc_com/Projets_et_realisations/journee_des_projets/creations.html">Cliquez ici pour retrouver toutes mes créations</a></p> 
 
 <p align="justify">En amont de la Journée des Projets, j'ai pris en charge la création d'un teaser pour promouvoir l'événement. En collaboration avec mon camarade Dylan Looij, nous avons élaboré le script et assuré une vidéo de qualité, mettant en valeur les moments forts et les aspects uniques de cette journée.</p>
 
