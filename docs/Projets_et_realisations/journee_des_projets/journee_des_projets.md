@@ -13,9 +13,9 @@ nav_order: 2
 
 <h2 style="color: red;"><strong>Mes Missions et Résultats Obtenus</strong></h2>
 
-<img src="../../images/photos_jprojets" alt="6 photos prises lors de la journée des projets" style="width: 100%; height: auto;">
+<img src="../../images/photos_jprojets.png" alt="6 photos prises journée des projets" style="max-width: 100%; display: block; margin: 0 auto;">
 
-<p align ="center"><a href="docs/Projets_et_realisations/creations.md">Cliquez ici pour retrouver toutes mes créations</a></p>
+<p align ="center"><a href="Unimakers/doc_com/docs/Projets_et_realisations/creations.md">Cliquez ici pour retrouver toutes mes créations</a></p>
 
 <p align="justify">En amont de la Journée des Projets, j'ai pris en charge la création d'un teaser pour promouvoir l'événement. En collaboration avec mon camarade Dylan Looij, nous avons élaboré le script et assuré une vidéo de qualité, mettant en valeur les moments forts et les aspects uniques de cette journée.</p>
 
