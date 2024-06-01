@@ -17,7 +17,7 @@ nav_order: 1
 
 <h3 style="margin-left: 40px;">Outils Utilisés</h3>
 
-<p align="justify">Afin de simplifier mes tâches et d'améliorer ma productivité, j'ai opté pour l'utilisation de logiciels que je maîtrisais déjà. Vous trouverez ci-dessous la liste de ces derniers : </p>
+<p align="justify">Pour simplifier mes tâches et améliorer ma productivité, j'ai choisi Lightroom pour l'édition de photos, Canva pour la création de designs, Instagram pour le partage de contenu, CapCut pour le montage vidéo, GIMP pour la retouche d'images et DaVinci Resolve pour le montage et l'étalonnage avancés. </p>
 
 <div style="text-align: center;">
     <img src="../../../images/logiciels_retouches.png" alt="Logiciels utilisés dans le travail : capcut, lightroom, canva, gimp, instagram, davinci resolve" style="width: 75%; height: auto; margin: auto;">
