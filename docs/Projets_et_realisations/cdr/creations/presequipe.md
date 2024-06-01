@@ -28,13 +28,13 @@ nav_order: 1
 
 <br>
 
-<h3 style="margin-left: 20px;">Robot Automatisé Transporteur de Plantes - RATP</h3>
+<h3 style="margin-left: 20px;">RATP - Robot Automatisé Transporteur de Plantes </h3>
 
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">
-        <p align="justify"><p align="justify">À l'instar d'Innovatronic, la RATP a également rencontré des difficultés lors de la compétition et a pris du retard, ne parvenant qu'à atteindre l'avant-dernière série de matchs. Lors de leur premier match, ils sont repartis bredouilles, n'ayant marqué aucun point. Cependant, ils ont su rebondir au second match en inscrivant 66 points et en se classant 61èmes.</p>
+        <p align="justify">À l'instar d'Innovatronic, la RATP a également rencontré des difficultés lors de la compétition et a pris du retard, ne parvenant qu'à atteindre l'avant-dernière série de matchs. Lors de leur premier match, ils sont repartis bredouilles, n'ayant marqué aucun point. Cependant, ils ont su rebondir au second match en inscrivant 66 points et en se classant 61èmes.</p>
     </div>
     <div style="flex: 1; margin-left: 10px;">
         <img src="../../../images/DSC08110.jpg" alt="Image de RATPc" style="width: 90%; height: auto;">
