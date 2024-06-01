@@ -26,7 +26,6 @@ nav_order: 1
 
 <p align="justify">Malgré des débuts laborieux, Innovatronic a surmonté les obstacles et obtenu l'homologation de son robot lors de la dernière journée de compétition, participant même à un match ! Cette réussite était particulièrement remarquable pour une équipe de première année. Ils ont finalement décroché la 77e place sur 95 équipes présentes. Félicitations à eux pour cette performance !</p>
 
-<br>
 
 <h3 style="margin-left: 20px;">RATP - Robot Automatisé Transporteur de Plantes </h3>
 
@@ -40,7 +39,6 @@ nav_order: 1
         <img src="../../../images/DSC08110.jpg" alt="Image de RATPc" style="width: 90%; height: auto;">
     </div>
 </div>
-<br>
 
 <p align="justify"> La stabilité de leur robot a été démontrée lors de matchs amicaux organisés à leur retour à l'école<em><strong>L'année prochaine, l'équipe RATP sera un adversaire redoutable, alors méfiez-vous d'eux !</strong></em><p>
 
