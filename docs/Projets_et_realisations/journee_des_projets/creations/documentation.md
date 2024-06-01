@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaser
+title: Documentation
 grand_parent : Projets et Réalisations
 parent: Journée des Projets
 nav_order: 3
@@ -8,6 +8,8 @@ nav_order: 3
 <h1><strong>Journée des Projets</strong></h1>
 
 <h3  style="margin-left: 30px; color: red;">Mise en place d'une documentation : Photos et vidéos </h3>
+
+<br>
 
 <img src="../../../images/documentation.png" alt="6 photos prises journée des projets" style="max-width: 75%; display: block; margin: 0 auto;">
 
