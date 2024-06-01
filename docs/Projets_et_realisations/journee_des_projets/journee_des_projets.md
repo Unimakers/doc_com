@@ -16,8 +16,6 @@ nav_order: 3
 
 <img src="../../images/photos_jprojets.png" alt="6 photos prises journée des projets" style="max-width: 100%; display: block; margin: 0 auto;">
 
-<p align ="center"><a href="https://unimakers.fr/doc_com/Projets_et_realisations/journee_des_projets/creations.html">Cliquez ici pour retrouver toutes mes créations</a></p> 
-
 <p align="justify">En amont de la Journée des Projets, j'ai pris en charge la création d'un teaser pour promouvoir l'événement. En collaboration avec mon camarade Dylan Looij, nous avons élaboré le script et assuré une vidéo de qualité, mettant en valeur les moments forts et les aspects uniques de cette journée.</p>
 
 <p align="justify">Pendant la Journée des Projets, j'ai été responsable de la prise de photos et de la création d'une vidéo publicitaire. Ces supports ont permis de mettre en avant l'équipe Unimakers, qui a brillamment participé à la Coupe France de Robotique 2024. Grâce à mon travail, l'événement a bénéficié d'une couverture visuelle attractive et professionnelle, mettant en lumière les compétences et les innovations de notre équipe. Les retours ont été très positifs, tant de la part des participants que des organisateurs.</p>
