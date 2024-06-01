@@ -8,7 +8,7 @@ nav_order: 1
 
 <h1><strong>Journée des Projets</strong></h1>
 
-<h3 style="margin-left: 30px; color: red; ">Teaser </h3>
+<h3 style="margin-left: 30px; color: red; ">Teaser : Cadrage et Scriptage </h3>
 
 <br>
 
