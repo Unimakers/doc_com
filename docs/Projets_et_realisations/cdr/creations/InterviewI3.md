@@ -31,20 +31,16 @@ nav_order: 4
 
 <p align="justify">Recherches et Élaboration des Questions : Pour les recherches, je me suis plongée dans le rôle de chaque membre de l'équipe afin d'adapter mes questions et de les mettre à l'aise. L'objectif était de faciliter une discussion authentique et naturelle.</p>
 
-<br>
+<p align="justify">Montage Vidéo : DaVinci Resolve</p>
 
 <dev>
 <ul style="margin-left: 40px; color: #96230A">
     <li><strong>Logistique</strong></li>
 </ul></dev>
 
-<p align="justify">Lieu de Tournage :Les différentes pièces d'Unimakers ont été choisies comme lieux de tournage, afin de préserver et de transmettre l'âme de l'association à travers la vidéo. </p>
+<p align="justify">Lieu de Tournage : Les différentes pièces d'Unimakers ont été choisies comme lieux de tournage, afin de préserver et de transmettre l'âme de l'association à travers la vidéo. </p>
 <p align="justify">Membre de l'équipe : LOOIJ Dylan, DELPLANQUE Julien, BIANCHI Pierre-Alexandre, DELASSALLE Théo, BLANCHOT Arthur, DE LA CLEMEDIERE Alexandre</p>
 
-<h3 style="margin-left: 20px;">Production</h3>
+<h3 style="margin-left: 20px;">Rendu Final</h3>
 
-<h3 style="margin-left: 20px;">Post-Production</h3>
-
-<p align="justify">Montage Vidéo : DaVinci Resolve</p>
-
-<h3 style="margin-left: 20px;">Analyse et Contribution de l'expérience</h3>
+<!--INSERER VIDEO-->
