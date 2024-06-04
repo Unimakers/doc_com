@@ -25,11 +25,8 @@ nav_order: 2
         <img src="../../../images/IMG_6795.jpg" alt="Images des prix" style="width: 90%; height: auto;">
     </div>
     <div style="flex: 1; margin-left: 10px;">
-
     <p align="justify">La réalisation de cette vidéo a véritablement attiré l'attention du public et a conduit à une augmentation de l'affluence au stand. Cette visibilité accrue de l'équipe Unimakers a joué un rôle déterminant dans l'obtention du prix du jury et du public !</p>
-
 </div>
-
 <br>
 
 <p align="center"><strong>Félicitations à toutes l'équipe Unimakers !</strong></p>
