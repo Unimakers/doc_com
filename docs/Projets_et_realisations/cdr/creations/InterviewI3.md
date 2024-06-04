@@ -43,7 +43,13 @@ nav_order: 4
 
 <h3 style="margin-left: 20px;">Rendu Final</h3>
 
-<!--INSERER VIDEO-->
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8JguyAo9NRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <h3 style="margin-left: 50px;"><strong>Résultats Obtenus</strong></h3>
 
+<p align="justify">
+La réalisation de ce projet a produit plusieurs résultats positifs significatifs pour l'équipe I3 et l'association Unimakers. Tout d'abord, la vidéo a accru la visibilité de l'équipe et de l'association en étant largement partagée sur les réseaux sociaux et le site web. Cette diffusion a permis de toucher un large public, augmentant la notoriété de l'équipe I3 et de l'association Unimakers. Ensuite, l'authenticité des témoignages a fortement renforcé l'engagement de la communauté. La vidéo a suscité de nombreux likes, partages et commentaires positifs, créant ainsi une interaction dynamique et soutenue avec le public.Par ailleurs, la vidéo a servi de source d'inspiration pour les étudiants intéressés par la robotique. En présentant les réalisations et les expériences de l'équipe I3, elle a encouragé de nombreux étudiants à s'engager dans la Coupe de France de Robotique. De plus, la qualité de la production a démontré le professionnalisme et le sérieux de l'association Unimakers. Cette démonstration de compétences a renforcé la crédibilité de l'association auprès des partenaires et sponsors potentiels, ouvrant la porte à de futures collaborations fructueuses. Enfin, la vidéo constitue une ressource durable et précieuse. Elle peut être utilisée dans des campagnes futures, des présentations et comme matériel promotionnel, garantissant une utilisation continue et efficace de ce contenu visuel de haute qualité.
+</p>

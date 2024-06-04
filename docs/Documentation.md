@@ -1,6 +1,6 @@
 ---
 layout: home
-nav_order: 4
+nav_order: 2
 title: Documentation
 ---
 
@@ -8,7 +8,7 @@ title: Documentation
 
 <h2 style="margin-left: 30px; color: red;">L'Importance de la Documentation Visuelle pour la Promotion</h2>
 
-<img src="./images/pdoco.png" alt="Photos CDR2024 et Journée des projets" style="max-width: 50%; height: auto;">
+<img src="./images/pdoco.png" alt="Photos CDR2024 et Journée des projets" style="max-width: 100%; height: auto;">
 
 <p align="justify">Dans un monde où l'image est reine, la documentation visuelle d'événements par des photos et des vidéos est devenue indispensable pour toute stratégie de promotion efficace. Qu'il s'agisse de conférences, de salons professionnels, de lancements de produits ou de festivals culturels, capturer ces moments clés permet de maximiser la visibilité et l'impact de vos activités. Voici pourquoi une bonne documentation visuelle est cruciale et comment elle peut être bénéfique pour votre organisation.</p>
 
