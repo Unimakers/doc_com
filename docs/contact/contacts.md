@@ -10,4 +10,7 @@ nav_order: 3
     <img src="./../images/contacts.png" alt="contacts" style="max-width: 100%; height: auto;">
 </div>
 
-<a style="text-align: center;" href="www.linkedin.com/in/clémence-l-558360282"> Linkedin- LELEU Clémence </a>
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/clémence-l-558360282"> Linkedin- LELEU Clémence </a>
+</div>
+

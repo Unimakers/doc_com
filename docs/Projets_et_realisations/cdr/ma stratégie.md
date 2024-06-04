@@ -26,4 +26,6 @@ nav_order: 1
 
 <h2 style="color: red;"><strong>La Communication en quelques chiffres</strong></h2>
 
-<!--Nbr photos, vidéos, tps passé-->
+<div style="text-align: center;">
+    <img src="../../images/chiffres.png" alt="Logiciels utilisés dans le travail : capcut, lightroom, canva, gimp, instagram, davinci resolve" style="width: 75%; height: auto; margin: auto;">
+</div>

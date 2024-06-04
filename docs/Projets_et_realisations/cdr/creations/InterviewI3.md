@@ -12,13 +12,13 @@ nav_order: 4
 
 <br>
 
-<h3 style="margin-left: 20px;">Objectifs et Contexte</h3>
+<h3 style="margin-left: 20px;"><strong>Objectifs et Contexte</strong></h3>
 
 <br>
 
 <p align="justify">Ce rapport présente la réalisation complète d'une vidéo d'interview, depuis la conception jusqu'à la production finale. L'objectif de cette vidéo est de mettre en lumière l'équipe I3, finaliste de la Coupe de France de Robotique 2024. Ce projet célèbre leurs accomplissements, partage leur expérience et inspire les passionnés de robotique.</p>
 
-<h3 style="margin-left: 20px;">Pré-Production</h3>
+<h3 style="margin-left: 20px;"><strong>Production</strong></h3>
 
 <br>
 
