@@ -44,3 +44,6 @@ nav_order: 4
 <h3 style="margin-left: 20px;">Rendu Final</h3>
 
 <!--INSERER VIDEO-->
+
+<h3 style="margin-left: 50px;"><strong>Résultats Obtenus</strong></h3>
+

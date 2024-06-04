@@ -13,3 +13,6 @@ nav_order: 2
 <h3> L'importance de documenter </h3>
 
 <p align ="justify"></p>
+
+
+<h3 style="margin-left: 50px;"><strong>Résultats Obtenus</strong></h3>
