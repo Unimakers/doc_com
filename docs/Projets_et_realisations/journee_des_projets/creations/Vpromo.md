@@ -18,7 +18,9 @@ nav_order: 2
   <iframe width="560" height="315" src="https://www.youtube.com/embed/7D-iiri6Bs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<h4 style="margin-left: 50px;">Résultats Obtenus</h4>
+<h3 style="margin-left: 50px;">Résultats Obtenus</h3>
+
+<br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">

@@ -8,9 +8,9 @@ nav_order: 1
 
 <h1><strong>Journée des Projets</strong></h1>
 
-<h3 style="margin-left: 30px; color: red; ">Teaser : Cadrage et Scriptage </h3>
+<h2 style="margin-left: 30px; color: red; ">Teaser : Cadrage et Scriptage </h2>
 
-<h4 style="margin-left: 50px;"><strong>Les Objectifs</strong></h4>
+<h3 style="margin-left: 50px;"><strong>Objectifs et Contexte</strong></h3>
 
 <p align="justify">Créer un teaser pour promouvoir un événement présente plusieurs défis en matière de cadrage et de scriptage. Notre objectif était de réaliser une vidéo dynamique incluant les informations essentielles, dans le but d'attirer l'attention des étudiants. Il était crucial de définir des messages clairs et percutants tout en maintenant un équilibre entre information et suspense. Nous avons également veillé à adopter un style visuel attrayant et une tonalité en phase avec les intérêts et les attentes de notre public cible. Enfin, nous avons ajusté le contenu en fonction des retours pour maximiser l'impact et garantir que le teaser capte efficacement l'intérêt des étudiants</p>
 
@@ -20,3 +20,6 @@ nav_order: 1
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UPZuvqIs5k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<h3 style="margin-left: 50px;"><strong>Résultat et Analyse</strong></h3>
+
+<p align="justify">  </p>
