@@ -16,8 +16,6 @@ nav_order: 6
 
 <p align="justify">L'objectif de cette courte vidéo est de promouvoir de manière dynamique et concise l'équipe des étudiants de deuxième année, afin qu'elle puisse être facilement partagée sur les réseaux sociaux.</p>
 
-<br>
-
 <h3 style="margin-left: 20px;"><strong>Développement</strong></h3>
 
 <p align ="justify">La conception de cette vidéo est très simple. Elle se base principalement sur une musique entraînante, qui sert de fil conducteur. Les images et séquences vidéo sont soigneusement sélectionnées pour s'harmoniser avec le rythme et l'énergie de la musique. Chaque élément visuel est conçu pour renforcer le message et capter l'attention du spectateur.</p>
