@@ -10,11 +10,11 @@ nav_order: 3
 
 <h2 style="color: red; margin-left: 30px;"><strong>He's Back</strong></h2>
 
-<h3 style="margin-left: 50px;"><strong>Objectifs et Contexte</strong></h3>
+<h3 style="margin-left: 50px;"><strong>Objectifs et Conception</strong></h3>
 
-<p align="justify">En produisant cette brève vidéo, mon objectif est de dynamiser notre compte Instagram et de mettre en avant la participation des étudiants à la Coupe de France de Robotique. Je vise également à renforcer notre crédibilité auprès des étudiants et des professionnels. Mon objectif était de créer quelque chose de dynamique, donc ma première étape a été de trouver la musique qui correspondait à ce que j'avais en tête. Une fois la musique sélectionnée, j'ai pu ajuster les vidéos et les photos selon le rythme qu'elle imposait. Vous trouverez alors le résultat obtenu ci-dessous.</p>
+<p align="justify">En produisant cette brève vidéo, mon objectif est de dynamiser notre compte Instagram et de mettre en avant la participation des étudiants à la Coupe de France de Robotique. Je vise également à renforcer notre crédibilité auprès des étudiants et des professionnels. Ma première étape a été de trouver la musique qui correspondait à ce que j'avais en tête. Une fois la musique sélectionnée, j'ai pu ajuster les vidéos et les photos selon le rythme qu'elle imposait. Vous trouverez alors le résultat obtenu ci-dessous.</p>
 
-<p align="center"><strong>Bon Visionnage ! Pensez à cliquer sur l'image ci-dessous !</strong></p>
+<p align="center"><strong>Bon Visionnage !</strong></p>
 
 <br>
 

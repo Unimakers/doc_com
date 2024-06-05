@@ -14,7 +14,7 @@ nav_order: 5
 
 <h2 style="margin-left: 50px;"><strong>Etapes de Développement</strong></h2>
 
-<!--Insérer PDF, demain matin-->
+ <iframe src="MAGAZINE.pdf" width="100%" height="600px"></iframe>
 
 <h2 style="margin-left: 50px;"><strong>Résultats Obtenus</strong></h2>
 
